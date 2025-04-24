@@ -6,9 +6,10 @@ Este projeto é uma aplicação e-commerce fictícia, repleta de falhas proposit
 
 > Login de usuários
 > Cadastro de contas
-> Transferências entre contas
-> Pagamentos de boletos
-> Visualização de extratos
+> Compra de produtos
+> Visualização de Carrinho
+> Pagamentos de boletos e Cartão
+> Visualização de Compra
 
 Nota: A aplicação não utiliza um banco de dados; todas as informações são armazenadas em memória local.​
 
